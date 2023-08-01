@@ -1,2 +1,4 @@
-# ProjetPerso
-Portfolio
+# Documentation du site
+
+- Commandes
+``gitignore``
