@@ -1,4 +1,4 @@
 # Documentation du site
 
 - Commandes
-``gitignore``
+``git init``
